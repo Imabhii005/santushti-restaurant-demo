@@ -1,5 +1,5 @@
 /* ══════════════════════════════════════════════
-   SANTUSHTI RESTAURANT — script.js
+   The Royal RESTAURANT — script.js
    Premium Luxury Spiritual Dining · Vrindavan
 ══════════════════════════════════════════════ */
 
@@ -307,7 +307,7 @@ const menuData = {
     }
 
     const msg = encodeURIComponent(
-      `🙏 Namaste! I'd like to reserve a table at Santushti Restaurant, Vrindavan.\n\n` +
+      `🙏 Namaste! I'd like to reserve a table at The Royal Restaurant, Vrindavan.\n\n` +
       `*Name:* ${name}\n` +
       `*Phone:* ${phone}\n` +
       `*Date:* ${date || 'Flexible'}\n` +
